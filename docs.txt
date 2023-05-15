@@ -2,3 +2,9 @@ build 할 경우
 root 폴더에서 아래 명령어 실행
 $ ./gradlew build
 $ java -jar build/libs/asphalt-0.0.1-SNAPSHOT.jar
+
+front-end
+Asphalt/frontend/src/
+
+$ npm install http-proxy-middleware --save
+$ npm install axios --save
